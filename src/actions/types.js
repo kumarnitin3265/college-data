@@ -1,0 +1,4 @@
+
+export const FETCH_COLLEGES = 'FETCH_COLLEGES';
+export const SORT_COLLEGS = 'SORT_COLLEGES';
+export const SEARCH_COLLEGES = 'SEARCH_COLLEGES';

@@ -1,0 +1,31 @@
+
+[
+    {
+        "name": "IIT Madaras",
+        "rating": 8.6,
+        "fees": 10000,
+        "userReview": 4.2,
+        "featured": true
+    },
+    {
+        "name": "IIT Delhi",
+        "rating": 8.6,
+        "fees": 10000,
+        "userReview": 4.2,
+        "featured": true
+    },
+    {
+        "name": "IIT Roorkee",
+        "rating": 8.6,
+        "fees": 10000,
+        "userReview": 4.2,
+        "featured": true
+    },
+    {
+        "name": "IIT Bombay",
+        "rating": 8.6,
+        "fees": 10000,
+        "userReview": 4.2,
+        "featured": true
+    }
+]
